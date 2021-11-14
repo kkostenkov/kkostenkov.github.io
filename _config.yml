@@ -63,7 +63,7 @@ content:
         sub_title: Lead developer
         caption: December 2019 - Present
         quote: >
-          Choose Development Manager as my prestige class
+          Development Teamlead as a choise for the prestige class
         description: | # this will include new lines to allow paragraphs
             Conducting code-reviews, interviews, hiring programmers and tech artists, arranging development and tech plans and being responsible for deadlines.
       - layout: left
@@ -81,9 +81,7 @@ content:
         sub_title: Unity developer (VR)
         caption: May 2016 - November 2016
         description: |
-            Development of multiplayer VR quest with full immersion. Players in VR helments and suits interact with physical objects in real world. 
-
-            via Oculus Rift, HTC Vive, Perception Neuron (Motion capture suit)
+            Solo developer of multiplayer VR quest with full immersion. Players in VR helments and suits interact with physical objects in real world via Oculus Rift, HTC Vive, Perception Neuron (Motion capture suit)
 
 
   - title: Education # Title for the section
