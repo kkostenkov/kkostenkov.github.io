@@ -74,7 +74,7 @@ content:
         quote: >
           Leveling up in a real gamedev environment.
         description: |
-            Mage my way from middle to senior C# dev. Supported several existing titles and put in effort to make couple prototypes that were not released.
+            Made my way from middle to senior C# dev. Supported several existing titles and put in effort to make couple prototypes that were not released.
       - layout: left
         title: iLocked
         link: ilocked.ru
@@ -118,9 +118,9 @@ content:
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Skills
-      layout: text
-      content: | 
-        <mark>Management</mark>, <mark>Unity</mark>, <mark>C#</mark>, <mark>.Net Core</mark>,  <mark>ASP.NET Core</mark>, <mark>Estimating</mark>, <mark>MongoDB</mark>, <mark>Git</mark>, <mark>Mercurial</mark>, <mark>SVN</mark>, <mark>Atlassian Confluence</mark>, <mark>Jira</mark>, <mark>Legacy digging</mark>, <mark>Python</mark>
+    layout: text
+    content: | 
+      <mark>Management</mark>, <mark>Unity</mark>, <mark>C#</mark>, <mark>.Net Core</mark>,  <mark>ASP.NET Core</mark>, <mark>Estimating</mark>, <mark>MongoDB</mark>, <mark>Git</mark>, <mark>Mercurial</mark>, <mark>SVN</mark>, <mark>Atlassian Confluence</mark>, <mark>Jira</mark>, <mark>Legacy digging</mark>, <mark>Python</mark>
 
   - title: A Little More About Me
     layout: text
