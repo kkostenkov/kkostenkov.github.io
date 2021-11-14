@@ -48,7 +48,7 @@ linkedin_username: kkostenkov
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Kirill and I'm a lead game developer. As well as organizing dev teams I also have experience in C# programming and Unity game engine. I have worked at a number of projects gaining teamwork and leadership skills.
+  Hi, my name's Kirill and I'm a lead game developer. As well as organizing dev teams I also have experience in C# programming and the Unity game engine. I have worked on a number of projects gaining teamwork and leadership skills.
 
   My tech expertise lies in <mark>Unity</mark> and <mark>C#</mark>
 
@@ -63,7 +63,7 @@ content:
         sub_title: Lead developer
         caption: December 2019 - Present
         quote: >
-          Development Teamlead as a choise for the prestige class
+          Development Teamlead as a choice for the prestige class
         description: | # this will include new lines to allow paragraphs
             Conducting code-reviews, interviews, hiring programmers and tech artists, arranging development and tech plans and being responsible for deadlines.
       - layout: left
@@ -72,16 +72,16 @@ content:
         sub_title: Senior unity developer
         caption: January 2017 - November 2019
         quote: >
-          Leveling up in a real gamedev environment.
+          Leveling up in a real game dev environment.
         description: |
-            Made my way from middle to senior C# dev. Supported several existing titles and put in effort to make couple prototypes that were not released.
+            Made my way from middle to senior C# dev. Supported several existing titles and contributed to couple prototypes that were not released.
       - layout: left
         title: iLocked
         link: ilocked.ru
         sub_title: Unity developer (VR)
         caption: May 2016 - November 2016
         description: |
-            Solo developer of multiplayer VR quest with full immersion. Players in VR helments and suits interact with physical objects in real world via Oculus Rift, HTC Vive, Perception Neuron (Motion capture suit)
+            Solo developer of multiplayer VR quest with full immersion. Players in VR helmets and suits interact with physical objects in the real world via Oculus Rift, HTC Vive, Perception Neuron (Motion capture suit)
 
 
   - title: Education # Title for the section
@@ -123,7 +123,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Open-minded, sociable, with a good sence of humour.
+      Open-minded, sociable, with a good sense of humour.
       Alongside my interests in games and software engineering some of my other interests and hobbies are:
       - Tinkering
       - Crossfit
