@@ -92,30 +92,16 @@ content:
           Most of nowadays IT-folk had little to no idea what they are really going to do after their graduation.
         description: | # this will include new lines to allow paragraphs
           During my time at ENGECON I learned most of my key management skills that helped in my career. 
-          
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: Super awesome projects
-  #       # link: github.com/sproogen
-  #       # link_text: Project Website
-  #       # additional_links:
-  #       #   - title:  sproogen/modern-resume-theme
-  #       #     icon: fab fa-github
-  #       #     url: github.com/sproogen/modern-resume-theme
-  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       # quote: >
-  #       #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: | # this will include new lines to allow paragraphs
-  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Skills
     layout: text
     content: | 
       <mark>Management</mark>, <mark>Unity</mark>, <mark>C#</mark>, <mark>.Net Core</mark>,  <mark>ASP.NET Core</mark>, <mark>Estimating</mark>, <mark>MongoDB</mark>, <mark>Git</mark>, <mark>Mercurial</mark>, <mark>SVN</mark>, <mark>Atlassian Confluence</mark>, <mark>Jira</mark>, <mark>Legacy digging</mark>, <mark>Python</mark>
+
+  - title: Projects
+    layout: text
+    content: |
+      [Some of my projects you could find over here](portfolio)
 
   - title: A Little More About Me
     layout: text
@@ -129,6 +115,25 @@ content:
 
       Best of luck  
       ![Fairy-tales cat](/images/cat_1.jpg "Fairy-tales cat")
+
+  - title: Portfolio # Portfolio content only. Ignored in rendering of main.
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/kkostenkov
+        link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: |
+          I started this project as a way if learning <mark>Jekyll</mark>. I have learned many skills through this and been I'm very proud of having this in my portfolio.
 
 # Footer
 footer_show_references: true
