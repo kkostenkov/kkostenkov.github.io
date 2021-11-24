@@ -148,6 +148,40 @@ content:
           <mark>Git</mark>   
           <mark>Python</mark>
 
+      - layout: top-middle
+        title: Tardis 
+        description: |
+          #### Project
+          <img src="images/portfolio/tardis_vive_controller.png" width="25%" align="right"/>
+          - Escape the room live quest    
+          - Multiplayer VR game    
+          - Released    
+
+          <br clear="all" />
+
+          #### My part
+
+          <img src="images/portfolio/tardis_promo.png" width="25%" align="right"/>
+
+          - App architecture planning
+          - All programming work
+          - Integration of SDKs and hardware to Unity
+
+          <br clear="all" />
+
+          #### Tech & skills
+
+          <img src="images/portfolio/tardis_mirror.png" width="50%" height="100%" align="right"/> 
+
+          <mark>Unity profiler</mark>   
+          <mark>Visual Studio</mark>   
+          <mark>Perception Neuron</mark>   
+          <mark>HTC Vive</mark> 
+          <mark>Oculus Rift</mark>    
+          <mark>Leap Motion</mark>    
+          <mark>Atlassian Jira</mark>    
+
+
       # - layout: top-middle
       #   title: Title
       #   link: some link
