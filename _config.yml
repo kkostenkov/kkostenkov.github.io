@@ -181,6 +181,159 @@ content:
           <mark>Leap Motion</mark>    
           <mark>Atlassian Jira</mark>    
 
+      - layout: top-middle
+        title: SS 
+        description: |
+          #### Project
+
+          - Mobile game
+          - Battler with narrative campaign
+          - Asynchronous multiplayer
+          - Development stopped after softlaunch.
+
+          #### My part
+
+          - Middle C# programmer
+          - Water boy of more experienced Unity devs
+          - Improved tools for GMs and operating manager
+          - Integrated statistics gathering
+
+          #### Tech & skills
+
+          <mark>Mercurial</mark>    
+          <mark>Unity UI</mark>    
+          <mark>MongoDB</mark>    
+          <mark>ReSharper</mark>    
+          <mark>Programming patterns</mark>    
+          <mark>Predicted random</mark>    
+          <mark>Atlassian Confluence</mark>    
+          <mark>Mobile plugins and SDKs</mark>    
+          <mark>Firebase</mark>    
+          <mark>Teamcity</mark>    
+          <mark>Django</mark>    
+
+
+      - layout: top-middle
+        title: "King’s Bounty: Legions"
+        description: |
+          #### Project
+
+          - Mobile + standalone game
+          - Turn-Based
+          - Synchronous PvP multiplayer
+          - Still in operation
+          - Lots of operated time-events and activities for players
+
+          #### My part
+
+          - C# programmer
+          - Deep legacy code diving
+          - Almost reverse engineering of the existing project
+          - Social network SDK integration and support
+          - Integrated video ads
+          - Implemented new game modes
+
+          #### Tech & skills  
+
+          <mark>SVN</mark>    
+          <mark>Photon Engine</mark>    
+          <mark>Silverlight</mark>    
+          <mark>AssetBundles</mark>    
+          <mark>Android Studio</mark>    
+          <mark>xCode</mark>    
+          <mark>Facebook SDK</mark>    
+          <mark>Ironsource SDK</mark>    
+
+
+      - layout: top-middle
+        title: "Prime World: Stories"
+        description: |
+          #### Project
+
+          - Mobile + Web game
+          - Arcade shoot’em up
+          - Rapid development
+          - Released
+
+          #### My part
+
+          - Lua programmer
+          - Chief in team of only 2 devs
+          - From idea to release in 2 weeks
+
+          #### Tech & skills  
+
+          <mark>Defold engine</mark>    
+          <mark>HTML5</mark>    
+          <mark>Lua</mark>    
+          <mark>Sprite animation</mark>    
+
+      - layout: top-middle
+        title: "Prime World: Defenders 2"
+        description: |
+          #### Project
+
+          - Mobile + Standalone game
+          - Tower defense
+          - with CCG elements
+          - Still in operation
+
+          #### My part
+
+          - Senior C# developer
+          - Port from mobile to Valve’s Steam
+          - Implemented new asynchronous PvP mode
+          - Added new metagame mechanics
+          - Support of existing SDKs         
+
+          #### Tech & skills  
+
+          <mark>Steam</mark>    
+          <mark>ECS</mark>    
+          <mark>Server progress saves</mark>    
+          <mark>NGUI</mark>    
+          <mark>Facebook statistics</mark>    
+
+      - layout: top-middle
+        title: PL & FK
+        description: |
+          #### Project
+
+          Standalone strategy-RPG with indirect PvP    
+          and    
+          Mobile + Standalone adventure-survival
+
+          #### My part
+
+          - Lead of programming team (4 programmers)
+          - Architecture planning
+          - Task management
+          - C# programming
+          - Code review
+          - Prototype development
+          - Communication with art team
+          - Cross-platform and cross-project libraries creation
+
+          #### Tech & skills  
+
+          <mark>Team-leading</mark>    
+          <mark>GPU profiling</mark>    
+          <mark>CPU and memory profiling</mark>    
+          <mark>xCode profiler</mark>    
+          <mark>Leo ECS</mark>    
+          <mark>Telepathy</mark>    
+          <mark>LeanLocalization</mark>    
+          <mark>Synchronous multiplayer</mark>    
+          <mark>Simple shader coding</mark>    
+          <mark>Custom Unity editor windows and</mark>    
+          <mark>inspectors</mark>    
+          
+      - layout: top-middle
+        title: "Mutiny: Pirate Survival RPG"
+        description: |
+          #### Project
+          #### My part
+          #### Tech & skills  
 
       # - layout: top-middle
       #   title: Title
