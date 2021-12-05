@@ -119,83 +119,111 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: Krownguards
-        link: https://www.youtube.com/watch?v=iMxsekdAsmI
-        link_text: Steam Greenlight trailer
+        title: "Mutiny: Pirate Survival RPG"
+        additional_links:
+          - title:  YouTube
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=4wbXPQjcY1w
+          - title:  Google Play
+            icon: fab fa-google-play
+            url: https://play.google.com/store/apps/details?id=com.heliogames.pirates
+          - title:  App Store
+            icon: fab fa-app-store
+            url: https://apps.apple.com/ru/app/mutiny-pirate-survival-rpg/id1490838880
         description: |
           #### Project
-          <img src="images/portfolio/krownguards.png" width="25%" align="right"/>    
-
-          - Indie development    
-          - Session-based competitive tower defense    
-          - Synchronous multiplayer for up to 8 players    
-          - Development stopped at Beta.    
-
-          #### My part
-          - Solo client-side programming 
-          - Integration of assets 
-          - Some server tweaks.    
-
-          <br clear="all" />
-          <img src="images/portfolio/krownguards_gameplay.png" width="33%" height="100%" align="right"/> 
-
-          #### Tech & skills
-          <mark>First steps with Unity and C#</mark>   
-          <mark>TCP </mark> 
-          <mark>JSON</mark>    
-          <mark>LZMA</mark>    
-          <mark>Python </mark>   
-          <mark>Tornado</mark>   
-          <mark>Git</mark>   
-          <mark>Python</mark>
-
-      - layout: top-middle
-        title: Tardis 
-        description: |
-          #### Project
-          <img src="images/portfolio/tardis_promo.png" width="25%" align="right"/>
+          <img src="images/portfolio/mutiny_poster.png" width="33%" align="right"/>
+          Survival RPG    
+          Pirate crew management    
+          Async PvP    
           
-          - Escape the room live quest    
-          - Multiplayer VR game    
-          - Released    
-
-          <br clear="all" />
-          <img src="images/portfolio/tardis_mirror.png" width="33%" height="100%" align="right"/> 
-
           #### My part
-          - App architecture planning
-          - All programming work
-          - Integration of SDKs and hardware to Unity
+          - Lead of programming & techartist teams    
+          - Conducting trainee camp programm    
+          - Hiring new teammembers    
+          - Version planning with responsibility for arranged deadlines    
 
           #### Tech & skills
-          <mark>Unity profiler</mark>   
-          <mark>Visual Studio</mark>   
-          <mark>Perception Neuron</mark>   
-          <mark>HTC Vive</mark> 
-          <mark>Oculus Rift</mark>    
-          <mark>Leap Motion</mark>    
-          <mark>Atlassian Jira</mark>    
+          <mark>Tech planning</mark>, <mark>Roadmap composing</mark>, <mark>Hiring & Firing</mark>, <mark>Helping subordinates to build teams</mark>
 
       - layout: top-middle
-        title: SS 
+        title: PL & FK
         description: |
           #### Project
           <img src="images/portfolio/nda.png" width="15%" align="right"/>
 
-          - Mobile game
-          - Battler with narrative campaign
-          - Asynchronous multiplayer
-          - Development stopped after softlaunch.
-          
+          Standalone strategy-RPG with indirect PvP    
+          and    
+          Mobile + Standalone adventure-survival
 
           #### My part
-          - Middle C# programmer
-          - Water boy of more experienced Unity devs
-          - Improved tools for GMs and operating manager
-          - Integrated statistics gathering
+
+          - Lead of programming team (4 programmers)
+          - Architecture planning
+          - Task management
+          - C# programming
+          - Code review
+          - Prototype development
+          - Communication with art team
+          - Cross-platform and cross-project libraries creation
+
+          #### Tech & skills  
+
+          <mark>Team-leading</mark>, <mark>GPU profiling</mark>, <mark>CPU and memory profiling</mark>, <mark>ECS</mark>, <mark>Telepathy</mark>, <mark>Synchronous multiplayer</mark>
+
+      - layout: top-middle
+        title: "Prime World: Defenders 2"
+        additional_links:
+        - title:  Google Play
+          icon: fab fa-google-play
+          url: https://play.google.com/store/apps/details?id=com.nival.pwdefenders2
+        - title:  App Store
+          icon: fab fa-app-store
+          url: https://apps.apple.com/us/app/defenders-2-tower-defense-ccg/id939529493
+        description: |
+          #### Project
+          <img src="images/portfolio/defenders2_gameplay.png" width="33%" align="right"/>
+
+          - Mobile + Standalone game
+          - Tower defense
+          - with CCG elements
+          - Still in operation
+
+          <br clear="all" />
+          <img src="images/portfolio/defenders2_map.png" width="33%" align="right"/>
+          #### My part
+
+          - Senior C# developer
+          - Port from mobile to Valve’s Steam
+          - Implemented new asynchronous PvP mode
+          - Added new metagame mechanics
+          - Support of existing SDKs         
+
+          #### Tech & skills  
+
+          <mark>Steam</mark>, <mark>ECS</mark>, <mark>Server progress saves</mark>, <mark>NGUI</mark>, <mark>Facebook statistics</mark>    
+
+      - layout: top-middle
+        title: "Prime World: Stories"
+        description: |
+          #### Project
+          <img src="images/portfolio/pw_stories.png" width="10%" align="right"/>
+
+          - Mobile + Web game
+          - Arcade shoot’em up
+          - Rapid development
+          - Released
+          
+          <br clear="all" />
+          <img src="images/portfolio/pw_stories_gameplay.png" width="33%" align="right"/>
+
+          #### My part
+          - Lua programmer
+          - Chief in team of only 2 devs
+          - From idea to release in 2 weeks
 
           #### Tech & skills
-          <mark>Mercurial</mark>, <mark>Unity UI</mark>, <mark>MongoDB</mark>, <mark>ReSharper</mark>,<mark>Programming patterns</mark>, <mark>Predicted random</mark>, <mark>Atlassian Confluence</mark>, <mark>Mobile plugins and SDKs</mark>, <mark>Firebase</mark>, <mark>Teamcity</mark>, <mark>Django</mark>
+          <mark>Defold engine</mark>, <mark>HTML5</mark>, <mark>Lua</mark>, <mark>Sprite animation</mark>
 
       - layout: top-middle
         title: "King’s Bounty: Legions"
@@ -233,111 +261,70 @@ content:
           <mark>SVN</mark>, <mark>Photon Engine</mark>, <mark>Silverlight</mark>, <mark>AssetBundles</mark>, <mark>Android Studio</mark>, <mark>xCode</mark>, <mark>Facebook SDK</mark>, <mark>Ironsource SDK</mark>
 
       - layout: top-middle
-        title: "Prime World: Stories"
-        description: |
-          #### Project
-          <img src="images/portfolio/pw_stories.png" width="10%" align="right"/>
-
-          - Mobile + Web game
-          - Arcade shoot’em up
-          - Rapid development
-          - Released
-          
-          <br clear="all" />
-          <img src="images/portfolio/pw_stories_gameplay.png" width="33%" align="right"/>
-
-          #### My part
-          - Lua programmer
-          - Chief in team of only 2 devs
-          - From idea to release in 2 weeks
-
-          #### Tech & skills
-          <mark>Defold engine</mark>, <mark>HTML5</mark>, <mark>Lua</mark>, <mark>Sprite animation</mark>
-
-      - layout: top-middle
-        title: "Prime World: Defenders 2"
-        additional_links:
-        - title:  Google Play
-          icon: fab fa-google-play
-          url: https://play.google.com/store/apps/details?id=com.nival.pwdefenders2
-        - title:  App Store
-          icon: fab fa-app-store
-          url: https://apps.apple.com/us/app/defenders-2-tower-defense-ccg/id939529493
-        description: |
-          #### Project
-          <img src="images/portfolio/defenders2_gameplay.png" width="33%" align="right"/>
-
-          - Mobile + Standalone game
-          - Tower defense
-          - with CCG elements
-          - Still in operation
-
-          <br clear="all" />
-          <img src="images/portfolio/defenders2_map.png" width="33%" align="right"/>
-          #### My part
-
-          - Senior C# developer
-          - Port from mobile to Valve’s Steam
-          - Implemented new asynchronous PvP mode
-          - Added new metagame mechanics
-          - Support of existing SDKs         
-
-          #### Tech & skills  
-
-          <mark>Steam</mark>, <mark>ECS</mark>, <mark>Server progress saves</mark>, <mark>NGUI</mark>, <mark>Facebook statistics</mark>    
-
-      - layout: top-middle
-        title: PL & FK
+        title: SS 
         description: |
           #### Project
           <img src="images/portfolio/nda.png" width="15%" align="right"/>
 
-          Standalone strategy-RPG with indirect PvP    
-          and    
-          Mobile + Standalone adventure-survival
+          - Mobile game
+          - Battler with narrative campaign
+          - Asynchronous multiplayer
+          - Development stopped after softlaunch.
+          
 
           #### My part
-
-          - Lead of programming team (4 programmers)
-          - Architecture planning
-          - Task management
-          - C# programming
-          - Code review
-          - Prototype development
-          - Communication with art team
-          - Cross-platform and cross-project libraries creation
-
-          #### Tech & skills  
-
-          <mark>Team-leading</mark>, <mark>GPU profiling</mark>, <mark>CPU and memory profiling</mark>, <mark>ECS</mark>, <mark>Telepathy</mark>, <mark>Synchronous multiplayer</mark>
-          
-      - layout: top-middle
-        title: "Mutiny: Pirate Survival RPG"
-        additional_links:
-          - title:  YouTube
-            icon: fab fa-youtube
-            url: https://www.youtube.com/watch?v=4wbXPQjcY1w
-          - title:  Google Play
-            icon: fab fa-google-play
-            url: https://play.google.com/store/apps/details?id=com.heliogames.pirates
-          - title:  App Store
-            icon: fab fa-app-store
-            url: https://apps.apple.com/ru/app/mutiny-pirate-survival-rpg/id1490838880
-        description: |
-          #### Project
-          <img src="images/portfolio/mutiny_poster.png" width="33%" align="right"/>
-          Survival RPG    
-          Pirate crew management    
-          Async PvP    
-          
-          #### My part
-          - Lead of programming & techartist teams    
-          - Conducting trainee camp programm    
-          - Hiring new teammembers    
-          - Version planning with responsibility for arranged deadlines    
+          - Middle C# programmer
+          - Water boy of more experienced Unity devs
+          - Improved tools for GMs and operating manager
+          - Integrated statistics gathering
 
           #### Tech & skills
-          <mark>Tech planning</mark>, <mark>Roadmap composing</mark>, <mark>Hiring & Firing</mark>, <mark>Helping subordinates to build teams</mark>
+          <mark>Mercurial</mark>, <mark>Unity UI</mark>, <mark>MongoDB</mark>, <mark>ReSharper</mark>, <mark>Programming patterns</mark>, <mark>Predicted random</mark>, <mark>Atlassian Confluence</mark>, <mark>Mobile plugins and SDKs</mark>, <mark>Firebase</mark>, <mark>Teamcity</mark>, <mark>Django</mark>    
+
+      - layout: top-middle
+        title: Tardis 
+        description: |
+          #### Project
+          <img src="images/portfolio/tardis_promo.png" width="25%" align="right"/>
+          
+          - Escape the room live quest    
+          - Multiplayer VR game    
+          - Released    
+
+          <br clear="all" />
+          <img src="images/portfolio/tardis_mirror.png" width="33%" height="100%" align="right"/> 
+
+          #### My part
+          - App architecture planning
+          - All programming work
+          - Integration of SDKs and hardware to Unity
+
+          #### Tech & skills
+          <mark>Unity profiler</mark>, <mark>Visual Studio</mark>, <mark>Perception Neuron</mark>, <mark>HTC Vive</mark>, <mark>Oculus Rift</mark>, <mark>Leap Motion</mark>, <mark>Atlassian Jira</mark>    
+
+      - layout: top-middle
+        title: Krownguards
+        link: https://www.youtube.com/watch?v=iMxsekdAsmI
+        link_text: Steam Greenlight trailer
+        description: |
+          #### Project
+          <img src="images/portfolio/krownguards.png" width="25%" align="right"/>    
+
+          - Indie development    
+          - Session-based competitive tower defense    
+          - Synchronous multiplayer for up to 8 players    
+          - Development stopped at Beta.    
+
+          #### My part
+          - Solo client-side programming 
+          - Integration of assets 
+          - Some server tweaks.    
+
+          <br clear="all" />
+          <img src="images/portfolio/krownguards_gameplay.png" width="33%" height="100%" align="right"/> 
+
+          #### Tech & skills
+          <mark>First steps with Unity and C#</mark>, <mark>TCP</mark>, <mark>JSON</mark>, <mark>LZMA</mark>, <mark>Python</mark>, <mark>Tornado</mark>, <mark>Git</mark>
 
 # Footer
 footer_show_references: true
