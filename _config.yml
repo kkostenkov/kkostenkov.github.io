@@ -50,8 +50,8 @@ about_content: | # this will include new lines to allow paragraphs
   My tech expertise lies in <mark>Unity</mark> and <mark>C#</mark>
 
 content:
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title: Helio
@@ -80,8 +80,8 @@ content:
         description: |
             Solo developer of multiplayer VR quest with full immersion. Players in VR helmets and suits interact with physical objects in the real world via Oculus Rift, HTC Vive, Perception Neuron (Motion capture suit)
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: St. Petersburg State University of Engineering and Economics
@@ -89,7 +89,7 @@ content:
         sub_title: Human resources specialist
         quote: >
           Most of nowadays IT-folk had little to no idea what they are really going to do after their graduation.
-        description: | # this will include new lines to allow paragraphs
+        description: |
           During my time at ENGECON I learned most of my key management skills that helped in my career. 
 
   - title: Skills
@@ -104,7 +104,7 @@ content:
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
       Open-minded, sociable, with a good sense of humour.
       Alongside my interests in games and software engineering some of my other interests and hobbies are:
       - Tinkering
@@ -115,8 +115,8 @@ content:
       Best of luck  
       ![Fairy-tales cat](/images/cat_1.jpg "Fairy-tales cat")
 
-  - title: Portfolio # Portfolio content only. Ignored in rendering of main.
-    layout: list # Type of content section (list/text)
+  - title: Portfolio
+    layout: list
     content:
       - layout: top-middle
         title: Krownguards
@@ -153,27 +153,21 @@ content:
         title: Tardis 
         description: |
           #### Project
-          <img src="images/portfolio/tardis_vive_controller.png" width="25%" align="right"/>
+          <img src="images/portfolio/tardis_promo.png" width="25%" align="right"/>
+          
           - Escape the room live quest    
           - Multiplayer VR game    
           - Released    
 
           <br clear="all" />
+          <img src="images/portfolio/tardis_mirror.png" width="33%" height="100%" align="right"/> 
 
           #### My part
-
-          <img src="images/portfolio/tardis_promo.png" width="25%" align="right"/>
-
           - App architecture planning
           - All programming work
           - Integration of SDKs and hardware to Unity
 
-          <br clear="all" />
-
           #### Tech & skills
-
-          <img src="images/portfolio/tardis_mirror.png" width="33%" height="100%" align="right"/> 
-
           <mark>Unity profiler</mark>   
           <mark>Visual Studio</mark>   
           <mark>Perception Neuron</mark>   
@@ -186,7 +180,7 @@ content:
         title: SS 
         description: |
           #### Project
-          <img src="images/portfolio/nda.png" width="25%" align="right"/>
+          <img src="images/portfolio/nda.png" width="15%" align="right"/>
 
           - Mobile game
           - Battler with narrative campaign
@@ -205,6 +199,16 @@ content:
 
       - layout: top-middle
         title: "King’s Bounty: Legions"
+        additional_links:
+          - title:  Google Play
+            icon: fab fa-google-play
+            url: https://play.google.com/store/apps/details?id=com.kranx.kbl
+          - title:  App Store
+            icon: fab fa-app-store
+            url: https://apps.apple.com/ru/app/kings-bounty-legions-rpg/id507975944
+          - title:  Steam
+            icon: fab fa-steam
+            url: https://store.steampowered.com/app/25900/Kings_Bounty_The_Legend/
         description: |
           #### Project
           <img src="images/portfolio/kbl.png" width="33%" align="right"/>
@@ -248,21 +252,28 @@ content:
           - From idea to release in 2 weeks
 
           #### Tech & skills
-          <mark>Defold engine</mark>    
-          <mark>HTML5</mark>    
-          <mark>Lua</mark>    
-          <mark>Sprite animation</mark>    
+          <mark>Defold engine</mark>, <mark>HTML5</mark>, <mark>Lua</mark>, <mark>Sprite animation</mark>
 
       - layout: top-middle
         title: "Prime World: Defenders 2"
+        additional_links:
+        - title:  Google Play
+          icon: fab fa-google-play
+          url: https://play.google.com/store/apps/details?id=com.nival.pwdefenders2
+        - title:  App Store
+          icon: fab fa-app-store
+          url: https://apps.apple.com/us/app/defenders-2-tower-defense-ccg/id939529493
         description: |
           #### Project
+          <img src="images/portfolio/defenders2_gameplay.png" width="33%" align="right"/>
 
           - Mobile + Standalone game
           - Tower defense
           - with CCG elements
           - Still in operation
 
+          <br clear="all" />
+          <img src="images/portfolio/defenders2_map.png" width="33%" align="right"/>
           #### My part
 
           - Senior C# developer
@@ -273,16 +284,13 @@ content:
 
           #### Tech & skills  
 
-          <mark>Steam</mark>    
-          <mark>ECS</mark>    
-          <mark>Server progress saves</mark>    
-          <mark>NGUI</mark>    
-          <mark>Facebook statistics</mark>    
+          <mark>Steam</mark>, <mark>ECS</mark>, <mark>Server progress saves</mark>, <mark>NGUI</mark>, <mark>Facebook statistics</mark>    
 
       - layout: top-middle
         title: PL & FK
         description: |
           #### Project
+          <img src="images/portfolio/nda.png" width="15%" align="right"/>
 
           Standalone strategy-RPG with indirect PvP    
           and    
@@ -301,40 +309,35 @@ content:
 
           #### Tech & skills  
 
-          <mark>Team-leading</mark>    
-          <mark>GPU profiling</mark>    
-          <mark>CPU and memory profiling</mark>    
-          <mark>xCode profiler</mark>    
-          <mark>Leo ECS</mark>    
-          <mark>Telepathy</mark>    
-          <mark>LeanLocalization</mark>    
-          <mark>Synchronous multiplayer</mark>    
-          <mark>Simple shader coding</mark>    
-          <mark>Custom Unity editor windows and</mark>    
-          <mark>inspectors</mark>    
+          <mark>Team-leading</mark>, <mark>GPU profiling</mark>, <mark>CPU and memory profiling</mark>, <mark>ECS</mark>, <mark>Telepathy</mark>, <mark>Synchronous multiplayer</mark>
           
       - layout: top-middle
         title: "Mutiny: Pirate Survival RPG"
+        additional_links:
+          - title:  YouTube
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=4wbXPQjcY1w
+          - title:  Google Play
+            icon: fab fa-google-play
+            url: https://play.google.com/store/apps/details?id=com.heliogames.pirates
+          - title:  App Store
+            icon: fab fa-app-store
+            url: https://apps.apple.com/ru/app/mutiny-pirate-survival-rpg/id1490838880
         description: |
           #### Project
+          <img src="images/portfolio/mutiny_poster.png" width="33%" align="right"/>
+          Survival RPG    
+          Pirate crew management    
+          Async PvP    
+          
           #### My part
-          #### Tech & skills  
+          - Lead of programming & techartist teams    
+          - Conducting trainee camp programm    
+          - Hiring new teammembers    
+          - Version planning with responsibility for arranged deadlines    
 
-      # - layout: top-middle
-      #   title: Title
-      #   link: some link
-      #   link_text: and link tesxt
-      #   additional_links:
-      #     - title:  sproogen/modern-resume-theme
-      #       icon: fab fa-github
-      #       url: github.com/sproogen/modern-resume-theme
-      #     - title:  Github page for project (eg. sproogen/modern-resume-theme)
-      #       icon: fab fa-github
-      #       url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-      #   quote: >
-      #     This is probably one of the greatest apps
-      #   description: |
-      #     I started this project
+          #### Tech & skills
+          <mark>Tech planning</mark>, <mark>Roadmap composing</mark>, <mark>Hiring & Firing</mark>, <mark>Helping subordinates to build teams</mark>
 
 # Footer
 footer_show_references: true
