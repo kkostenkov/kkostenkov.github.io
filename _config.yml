@@ -136,7 +136,8 @@ content:
           - Integration of assets 
           - Some server tweaks.    
 
-          <img src="images/portfolio/krownguards_gameplay.png" width="50%" height="100%" align="right"/> 
+          <br clear="all" />
+          <img src="images/portfolio/krownguards_gameplay.png" width="33%" height="100%" align="right"/> 
 
           #### Tech & skills
           <mark>First steps with Unity and C#</mark>   
@@ -171,7 +172,7 @@ content:
 
           #### Tech & skills
 
-          <img src="images/portfolio/tardis_mirror.png" width="50%" height="100%" align="right"/> 
+          <img src="images/portfolio/tardis_mirror.png" width="33%" height="100%" align="right"/> 
 
           <mark>Unity profiler</mark>   
           <mark>Visual Studio</mark>   
@@ -185,47 +186,38 @@ content:
         title: SS 
         description: |
           #### Project
+          <img src="images/portfolio/nda.png" width="25%" align="right"/>
 
           - Mobile game
           - Battler with narrative campaign
           - Asynchronous multiplayer
           - Development stopped after softlaunch.
+          
 
           #### My part
-
           - Middle C# programmer
           - Water boy of more experienced Unity devs
           - Improved tools for GMs and operating manager
           - Integrated statistics gathering
 
           #### Tech & skills
-
-          <mark>Mercurial</mark>    
-          <mark>Unity UI</mark>    
-          <mark>MongoDB</mark>    
-          <mark>ReSharper</mark>    
-          <mark>Programming patterns</mark>    
-          <mark>Predicted random</mark>    
-          <mark>Atlassian Confluence</mark>    
-          <mark>Mobile plugins and SDKs</mark>    
-          <mark>Firebase</mark>    
-          <mark>Teamcity</mark>    
-          <mark>Django</mark>    
-
+          <mark>Mercurial</mark>, <mark>Unity UI</mark>, <mark>MongoDB</mark>, <mark>ReSharper</mark>,<mark>Programming patterns</mark>, <mark>Predicted random</mark>, <mark>Atlassian Confluence</mark>, <mark>Mobile plugins and SDKs</mark>, <mark>Firebase</mark>, <mark>Teamcity</mark>, <mark>Django</mark>
 
       - layout: top-middle
         title: "King’s Bounty: Legions"
         description: |
           #### Project
-
+          <img src="images/portfolio/kbl.png" width="33%" align="right"/>
+          
           - Mobile + standalone game
           - Turn-Based
           - Synchronous PvP multiplayer
           - Still in operation
           - Lots of operated time-events and activities for players
 
-          #### My part
+          <img src="images/portfolio/kbl_battle.png" width="33%" align="right"/>
 
+          #### My part
           - C# programmer
           - Deep legacy code diving
           - Almost reverse engineering of the existing project
@@ -233,36 +225,29 @@ content:
           - Integrated video ads
           - Implemented new game modes
 
-          #### Tech & skills  
-
-          <mark>SVN</mark>    
-          <mark>Photon Engine</mark>    
-          <mark>Silverlight</mark>    
-          <mark>AssetBundles</mark>    
-          <mark>Android Studio</mark>    
-          <mark>xCode</mark>    
-          <mark>Facebook SDK</mark>    
-          <mark>Ironsource SDK</mark>    
-
+          #### Tech & skills
+          <mark>SVN</mark>, <mark>Photon Engine</mark>, <mark>Silverlight</mark>, <mark>AssetBundles</mark>, <mark>Android Studio</mark>, <mark>xCode</mark>, <mark>Facebook SDK</mark>, <mark>Ironsource SDK</mark>
 
       - layout: top-middle
         title: "Prime World: Stories"
         description: |
           #### Project
+          <img src="images/portfolio/pw_stories.png" width="10%" align="right"/>
 
           - Mobile + Web game
           - Arcade shoot’em up
           - Rapid development
           - Released
+          
+          <br clear="all" />
+          <img src="images/portfolio/pw_stories_gameplay.png" width="33%" align="right"/>
 
           #### My part
-
           - Lua programmer
           - Chief in team of only 2 devs
           - From idea to release in 2 weeks
 
-          #### Tech & skills  
-
+          #### Tech & skills
           <mark>Defold engine</mark>    
           <mark>HTML5</mark>    
           <mark>Lua</mark>    
