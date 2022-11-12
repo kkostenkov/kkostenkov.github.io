@@ -54,14 +54,23 @@ content:
     layout: list
     content:
       - layout: left
+        title: Tripledot Studios
+        link: tripledotstudios.com
+        # link_text: boringcompany.com
+        sub_title: Lead Unity Software Engineer
+        caption: April 2022 - Present
+        quote: >
+          Scaling up as a manager
+        description: | # this will include new lines to allow paragraphs
+            Contribute to company rapid growth by introducing scalable processes, training Associate leads, keeping the software development standards high while delivering Product managers' requests on time.
+      - layout: left
         title: Helio
         link: heliogames.com
-        # link_text: boringcompany.com
         sub_title: Lead developer
-        caption: December 2019 - Present
+        caption: December 2019 - March 2022
         quote: >
           Development Teamlead as a choice for the prestige class
-        description: | # this will include new lines to allow paragraphs
+        description: |
             Conducting code-reviews, interviews, hiring programmers and tech artists, arranging development and tech plans and being responsible for deadlines.
       - layout: left
         title: Nival
