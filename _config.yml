@@ -51,6 +51,10 @@ about_content: | # this will include new lines to allow paragraphs
 
   My tech expertise lies in <mark>Unity</mark> and <mark>C#</mark>
 
+  Language proficiency:
+  English - C1; French - B1; Spanish - A1; Russian - Native
+
+
 content:
   - title: Experience
     layout: list
