@@ -128,6 +128,19 @@ content:
     layout: list
     content:
       - layout: top-middle
+        title: "Fortune family projects"
+        additional_links:
+          - title:  App Store
+            icon: fab fa-app-store
+            url: https://apps.apple.com/us/app/solitaire-fortune/id1574698444
+        description: |
+          #### Project
+          <img src="images/portfolio/sof.png" width="15%" align="right"/>
+          PvP Solitaire and Bingo    
+          Real cash transactions    
+          A framework-like Platform to speed-up the development of new games with similar lobby
+          
+      - layout: top-middle
         title: "Mutiny: Pirate Survival RPG"
         additional_links:
           - title:  YouTube
