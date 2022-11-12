@@ -64,7 +64,7 @@ content:
         link: tripledotstudios.com
         # link_text: boringcompany.com
         sub_title: Lead Unity Software Engineer
-        caption: April 2022 - Present
+        caption: April 2022 - Present (Belarus)
         quote: >
           Scaling up as a manager
         description: | # this will include new lines to allow paragraphs
@@ -73,7 +73,7 @@ content:
         title: Helio
         link: heliogames.com
         sub_title: Lead developer
-        caption: December 2019 - March 2022
+        caption: December 2019 - March 2022 (Russia)
         quote: >
           Development Teamlead as a choice for the prestige class
         description: |
@@ -82,7 +82,7 @@ content:
         title: Nival
         link: nival.com
         sub_title: Senior unity developer
-        caption: January 2017 - November 2019
+        caption: January 2017 - November 2019 (Russia)
         quote: >
           Leveling up in a real game dev environment.
         description: |
@@ -91,7 +91,7 @@ content:
         title: iLocked
         link: ilocked.ru
         sub_title: Unity developer (VR)
-        caption: May 2016 - November 2016
+        caption: May 2016 - November 2016 (Russia)
         description: |
             Solo developer of multiplayer VR quest with full immersion. Players in VR helmets and suits interact with physical objects in the real world via Oculus Rift, HTC Vive, Perception Neuron (Motion capture suit)
 
