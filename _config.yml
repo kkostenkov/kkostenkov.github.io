@@ -112,9 +112,9 @@ content:
   - title: Skills
     layout: text
     content: | 
-      7 years of <mark>Unity</mark>, <mark>C#</mark>, <mark>.Net Core</mark>,  <mark>ASP.NET Core</mark>    
-      5 years of <mark>MongoDB</mark>, <mark>Git</mark>    
-      As well as proficiency with <mark>Team management</mark>, <mark>Estimating</mark>,  <mark>Mercurial</mark>, <mark>SVN</mark>, <mark>Atlassian Confluence</mark>, <mark>Jira</mark>, <mark>Legacy digging</mark>, <mark>Python</mark>
+      7 years of Unity, C#, .Net Core,  ASP.NET Core    
+      5 years of MongoDB, Git    
+      As well as proficiency with Team management, Estimating,  Mercurial, SVN, Atlassian Confluence, Jira, Legacy digging, Python
 
   - title: A Little More About Me
     layout: text
