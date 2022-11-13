@@ -47,11 +47,10 @@ additional_links:
 # about_title: About Me
 about_content: | # this will include new lines to allow paragraphs
  
- <img src="images/profile.jpg" width="20%" align="left"/>
- <img src="images/clear.png" width="50px"  align="left"/>
+ <img src="images/photo.jpg" width="20%" align="left"/>
+ <img src="images/clear.png" width="50px" height="200px" align="left"/>
   Hi, my name's Kirill and I'm a lead game developer. As well as organizing dev teams I also have experience in C# programming and the Unity game engine. I have worked on a number of projects gaining teamwork and leadership skills.
 
-  <img src="images/clear.png" width="50px"  align="left"/>
   My tech expertise lies in <mark>Unity</mark> and <mark>C#</mark>
 
   Language proficiency:
