@@ -114,11 +114,6 @@ content:
     content: | 
       <mark>Management</mark>, <mark>Unity</mark>, <mark>C#</mark>, <mark>.Net Core</mark>,  <mark>ASP.NET Core</mark>, <mark>Estimating</mark>, <mark>MongoDB</mark>, <mark>Git</mark>, <mark>Mercurial</mark>, <mark>SVN</mark>, <mark>Atlassian Confluence</mark>, <mark>Jira</mark>, <mark>Legacy digging</mark>, <mark>Python</mark>
 
-  - title: Projects
-    layout: text
-    content: |
-      [Some of my projects you could find over here](portfolio)
-
   - title: A Little More About Me
     layout: text
     content: |
@@ -128,9 +123,6 @@ content:
       - Crossfit
       - Shooting
       - [Geocaching](https://www.geocaching.com/)
-
-      Best of luck  
-      ![Fairy-tales cat](/images/cat_1.jpg "Fairy-tales cat")
 
   - title: Portfolio
     layout: list
