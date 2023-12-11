@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   My tech expertise lies in <mark>Unity</mark> and <mark>C#</mark>
 
   Language proficiency:
-  English - C1; French - B1; Spanish - A1; Russian - Native
+  English - C1; French - B1; Spanish - B1; Russian - Native
 
 
 content:
@@ -64,9 +64,9 @@ content:
       - layout: left
         title: Tripledot Studios
         link: tripledotstudios.com
-        # link_text: boringcompany.com
+        # link_text: https://tripledotstudios.com/
         sub_title: Lead Unity Software Engineer
-        caption: April 2022 - Present (Belarus)
+        caption: April 2022 - January 2024 (Spain)
         quote: >
           Scaling up as a manager
         description: | # this will include new lines to allow paragraphs
@@ -112,8 +112,8 @@ content:
   - title: Skills
     layout: text
     content: | 
-      7 years of Unity, C#, .Net Core,  ASP.NET Core    
-      5 years of MongoDB, Git    
+      8+ years of Unity, C#, .Net Core,  ASP.NET Core    
+      6+ years of MongoDB, Git    
       As well as proficiency with Team management, Estimating,  Mercurial, SVN, Atlassian Confluence, Jira, Legacy digging, Python
 
   - title: A Little More About Me
