@@ -116,6 +116,11 @@ content:
       6+ years of MongoDB, Git    
       As well as proficiency with Team management, Estimating,  Mercurial, SVN, Atlassian Confluence, Jira, Legacy digging, Python
 
+  - title: Projects
+    layout: text
+    content: |
+      [Some of my projects you could find over here](portfolio)
+
   - title: A Little More About Me
     layout: text
     content: |
@@ -124,6 +129,9 @@ content:
       - Tinkering
       - Crossfit
       - [Geocaching](https://www.geocaching.com/)
+
+      Best of luck  
+      ![Fairy-tales cat](/images/cat_1.jpg "Fairy-tales cat")
 
   - title: Portfolio
     layout: list
