@@ -70,7 +70,9 @@ content:
         quote: >
           Scaling up as a manager
         description: | # this will include new lines to allow paragraphs
-            Contribute to company rapid growth by introducing scalable processes, training Associate leads, keeping the software development standards high while delivering Product managers' requests on time.
+            Contributed to the company's rapid growth by introducing scalable processes, training Associate Leaders, maintaining high software development standards and meeting Product Manager requirements on time.  
+            Helped transform a group of individual contributors into The Team.  
+            Run various technical workshops for the studio.   
       - layout: left
         title: Helio
         link: heliogames.com
@@ -112,9 +114,9 @@ content:
   - title: Skills
     layout: text
     content: | 
-      8+ years of Unity, C#, .Net Core,  ASP.NET Core    
-      6+ years of MongoDB, Git    
-      As well as proficiency with Team management, Estimating,  Mercurial, SVN, Atlassian Confluence, Jira, Legacy digging, Python
+      9+ years of Unity, C#, .Net Core, ASP.NET Core
+      5+ years of leadership  
+      As well as proficiency in Scrum, Git, Jira, team management, mentoring
 
   - title: Projects
     layout: text
