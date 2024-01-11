@@ -70,7 +70,9 @@ content:
         quote: >
           Scaling up as a manager
         description: | # this will include new lines to allow paragraphs
-            Contribute to company rapid growth by introducing scalable processes, training Associate leads, keeping the software development standards high while delivering Product managers' requests on time.
+            Contributed to the company's rapid growth by introducing scalable processes, training Associate Leaders, maintaining high software development standards and meeting Product Manager requirements on time.  
+            Helped transform a group of individual contributors into The Team.  
+            Run various technical workshops for the studio.   
       - layout: left
         title: Helio
         link: heliogames.com
@@ -79,7 +81,7 @@ content:
         quote: >
           Development Teamlead as a choice for the prestige class
         description: |
-            Conducting code-reviews, interviews, hiring programmers and tech artists, arranging development and tech plans and being responsible for deadlines.
+            Conducted code reviews, interviews, hired programmers and technical artists, created development and technical roadmaps, and was responsible for deadlines.  
       - layout: left
         title: Nival
         link: nival.com
@@ -112,9 +114,9 @@ content:
   - title: Skills
     layout: text
     content: | 
-      8+ years of Unity, C#, .Net Core,  ASP.NET Core    
-      6+ years of MongoDB, Git    
-      As well as proficiency with Team management, Estimating,  Mercurial, SVN, Atlassian Confluence, Jira, Legacy digging, Python
+      9+ years of Unity, C#, .Net Core, ASP.NET Core  
+      5+ years of leadership  
+      As well as proficiency in Scrum, Git, Jira, team management, mentoring  
 
   - title: Projects
     layout: text
@@ -137,17 +139,25 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: "Fortune family projects"
+        title: "Solitaire Fortune, Bingo Fortune"
         additional_links:
           - title:  App Store
             icon: fab fa-app-store
             url: https://apps.apple.com/us/app/solitaire-fortune/id1574698444
         description: |
           #### Project
-          <img src="images/portfolio/sof.png" width="15%" align="right"/>
-          PvP Solitaire and Bingo    
-          Real cash transactions    
-          A framework-like Platform to speed-up the development of new games with similar lobby
+          <img src="images/portfolio/sof.png" width="28%" align="right"/>
+          Online PvP Solitaire and Bingo games for real money  
+          A framework-like Platform base to speed up the development of new games with similar lobby
+          #### My part  
+          - Ensuring that stakeholder requirements are delivered on time and with the expected quality
+          - Finding technical or process solutions to the business challenges
+          - Building a team of client-side developers
+          - Communicating across departments and projects, sharing technologies and approaches
+
+          #### Tech & skills
+          <mark>Appication architecture</mark>, <mark>Writing unit-tests</mark>, <mark>Technical coaching</mark>, <mark>Team-leading</mark>, <mark>Mentorship</mark>, <mark>PDP and PIP composition</mark>,  
+          <mark>Pair programming</mark>
           
       - layout: top-middle
         title: "Mutiny: Pirate Survival RPG"
@@ -175,7 +185,7 @@ content:
           - Version planning with responsibility for arranged deadlines    
 
           #### Tech & skills
-          <mark>Tech planning</mark>, <mark>Roadmap composing</mark>, <mark>Hiring & Firing</mark>, <mark>Helping subordinates to build teams</mark>
+          <mark>Tech planning</mark>, <mark>Roadmap composing</mark>, <mark>Hiring & letting people go</mark>, <mark>Helping reports to build their teams</mark>
 
       - layout: top-middle
         title: PL & FK
