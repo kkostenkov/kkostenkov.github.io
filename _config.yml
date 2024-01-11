@@ -70,9 +70,10 @@ content:
         quote: >
           Scaling up as a manager
         description: | # this will include new lines to allow paragraphs
-            Contributed to the company's rapid growth by introducing scalable processes, training Associate Leaders, maintaining high software development standards and meeting Product Manager requirements on time.  
+            Contributed to the company's rapid growth by introducing scalable processes and maintaining high software development standards.  
             Helped transform a group of individual contributors into The Team.  
-            Run various technical workshops for the studio.   
+            Run various technical workshops for the studio.  
+            Established interaction between the studio's various project teams to share technology and experience.  
       - layout: left
         title: Helio
         link: heliogames.com
@@ -81,7 +82,8 @@ content:
         quote: >
           Development Teamlead as a choice for the prestige class
         description: |
-            Conducted code reviews, interviews, hired programmers and technical artists, created development and technical roadmaps, and was responsible for deadlines.  
+            Conducted code reviews, interviews, hired programmers and technical artists, created development and technical roadmaps and was responsible for deadlines.  
+               
       - layout: left
         title: Nival
         link: nival.com
