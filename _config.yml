@@ -81,7 +81,7 @@ content:
         quote: >
           Development Teamlead as a choice for the prestige class
         description: |
-            Conducting code-reviews, interviews, hiring programmers and tech artists, arranging development and tech plans and being responsible for deadlines.
+            Conducted code reviews, interviews, hired programmers and technical artists, created development and technical roadmaps, and was responsible for deadlines.  
       - layout: left
         title: Nival
         link: nival.com
@@ -147,7 +147,7 @@ content:
         description: |
           #### Project
           <img src="images/portfolio/sof.png" width="28%" align="right"/>
-          Online PvP Solitaire and Bingo for real money  
+          Online PvP Solitaire and Bingo games for real money  
           A framework-like Platform base to speed up the development of new games with similar lobby
           #### My part  
           - Ensuring that stakeholder requirements are delivered on time and with the expected quality
