@@ -9,7 +9,7 @@ version: 2
 
 # Personal info
 name: Kirill Kostenkov
-title: Lead Unity Software Engineer
+title: Ingeniero jefe de software de Unity
 email: kkostenkov@gmail.com
 #website: www.kkostenkov.com
 
@@ -49,12 +49,12 @@ about_content: | # this will include new lines to allow paragraphs
  
  <img src="images/photo.jpg" width="20%" align="left"/>
  <img src="images/clear.png" width="50px" height="200px" align="left"/>
-  Hi, my name's Kirill and I'm a lead Unity software engineer. As well as organizing dev teams I also have experience in C# programming and the Unity game engine. I have worked on a number of projects gaining teamwork and leadership skills.
+  Hola, me llamo Kirill y soy ingeniero jefe de software de Unity. Además de organizar equipos de desarrollo, también tengo experiencia en programación C# y en el motor de juegos Unity. He trabajado en varios proyectos adquiriendo habilidades de trabajo en equipo y liderazgo.
 
-  My tech expertise lies in <mark>Unity</mark> and <mark>C#</mark>
+   Mi experiencia técnica radica en <mark>Unity</mark> y <mark>C#</mark>.
 
-  Language proficiency:
-  English - C1; French - B1; Spanish - B1; Russian - Native
+  Idiomas:
+  Inglés - C1; Francés - B1; Español - B1; Ruso - Nativo
 
 
 content:
@@ -67,39 +67,39 @@ content:
         # link_text: https://tripledotstudios.com/
         sub_title: Lead Unity Software Engineer
         caption: April 2022 - January 2024 (Spain)
-        quote: >
-          Scaling up as a manager
+        # quote: >
+        #   Scaling up as a manager
         description: | # this will include new lines to allow paragraphs
-            Contributed to the company's rapid growth by introducing scalable processes and maintaining high software development standards.  
-            Helped transform a group of individual contributors into The Team.  
-            Run various technical workshops for the studio.  
-            Established interaction between the studio's various project teams to share technology and experience.  
+            Contribuyó al rápido crecimiento de la empresa introduciendo procesos escalables y manteniendo altos estándares de desarrollo de software.  
+            Ayudó a transformar un grupo de colaboradores individuales en El Equipo.  
+            Impartió varios talleres técnicos para el estudio.  
+            Estableció la interacción entre los distintos equipos de proyecto del estudio para compartir tecnología y experiencia.  
       - layout: left
         title: Helio
         link: heliogames.com
         sub_title: Lead developer
         caption: December 2019 - March 2022 (Russia)
-        quote: >
-          Development Teamlead as a choice for the prestige class
+        # quote: >
+        #   Development Teamlead as a choice for the prestige class
         description: |
-            Conducted code reviews, interviews, hired programmers and technical artists, created development and technical roadmaps and was responsible for deadlines.  
+            Realizó revisiones de código, entrevistas, contrató programadores y artistas técnicos, creó hojas de ruta técnicas y de desarrollo y fue responsable de los plazos.  
                
       - layout: left
         title: Nival
         link: nival.com
         sub_title: Senior unity developer
         caption: January 2017 - November 2019 (Russia)
-        quote: >
-          Leveling up in a real game dev environment.
+        # quote: >
+        #   Leveling up in a real game dev environment.
         description: |
-            Made my way from middle to senior C# dev. Supported several existing titles and contributed to couple prototypes that were not released.
+            Pasé de desarrollador de C# medio a senior. Di soporte a varios títulos existentes y contribuí a un par de prototipos que no se lanzaron.  
       - layout: left
         title: iLocked
         link: ilocked.ru
         sub_title: Unity developer (VR)
         caption: May 2016 - November 2016 (Russia)
         description: |
-            Solo developer of multiplayer VR quest with full immersion. Players in VR helmets and suits interact with physical objects in the real world via Oculus Rift, HTC Vive, Perception Neuron (Motion capture suit)
+            Desarrollador en solitario de aventuras multijugador de RV con inmersión total. Jugadores con cascos y trajes de RV interactúan con objetos físicos en el mundo real a través de Oculus Rift, HTC Vive, Perception Neuron (traje de captura de movimiento).
 
   - title: Education
     layout: list
@@ -108,10 +108,10 @@ content:
         title: St. Petersburg State University of Engineering and Economics
         caption: 2005 - 2010
         sub_title: Bachelor Degree in Human Resources
-        quote: >
-          Most of nowadays IT-folk had little to no idea what they are really going to do after their graduation.
-        description: |
-          During my time at ENGECON I learned most of my key management skills that helped in my career. 
+        # quote: >
+        #   Most of nowadays IT-folk had little to no idea what they are really going to do after their graduation.
+        # description: |
+        #   During my time at ENGECON I learned most of my key management skills that helped in my career. 
 
   - title: Skills
     layout: text
