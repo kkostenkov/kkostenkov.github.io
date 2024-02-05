@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Experience
+  - title: Experiencia
     layout: list
     content:
       - layout: left
@@ -101,30 +101,30 @@ content:
         description: |
             Desarrollador en solitario de aventuras multijugador de RV con inmersión total. Jugadores con cascos y trajes de RV interactúan con objetos físicos en el mundo real a través de Oculus Rift, HTC Vive, Perception Neuron (traje de captura de movimiento).
 
-  - title: Education
+  - title: Educación
     layout: list
     content:
       - layout: left
         title: St. Petersburg State University of Engineering and Economics
         caption: 2005 - 2010
-        sub_title: Bachelor Degree in Human Resources
+        sub_title: Diplomatura en Recursos Humanos
         # quote: >
         #   Most of nowadays IT-folk had little to no idea what they are really going to do after their graduation.
         # description: |
         #   During my time at ENGECON I learned most of my key management skills that helped in my career. 
 
-  - title: Skills
+  - title: Habilidades
     layout: text
     content: | 
-      9+ years of Unity, C#, .Net Core, ASP.NET Core  
-      5+ years of leadership  
-      As well as proficiency in Scrum, Git, Jira, team management, mentoring  
+      9+ años de Unity, C#, .Net Core, ASP.NET Core  
+      5+ años de liderazgo  
+      Así como dominio de Scrum, Git, Jira, gestión de equipos, mentoring
 
-  - title: A Little More About Me
+  - title: Un poco más sobre mí
     layout: text
     content: |
-      Open-minded, sociable, with a good sense of humour.
-      Alongside my interests in games and software engineering some of my other interests and hobbies are:
+      De mente abierta, sociable y con buen sentido del humor.
+      Junto con mis intereses en los juegos y la ingeniería de software algunos de mis otros intereses y aficiones son:
       - Tinkering
       - Crossfit
       - [Geocaching](https://www.geocaching.com/)
@@ -363,7 +363,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: Referencias a petición
 
 # Build settings
 remote_theme: sproogen/resume-theme
