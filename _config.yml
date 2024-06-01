@@ -62,6 +62,16 @@ content:
     layout: list
     content:
       - layout: left
+        title: HOMA games
+        link: homagames.com
+        sub_title: Lead Unity Developer
+        caption: March 2024 - Present (Spain)
+        quote: >
+          Active listening is the key
+        description: |
+            Helped to re-establish a relationship of mutual trust within the team.  
+            Introduced core engineering principles in a gentle, step-by-step manner.  
+      - layout: left
         title: Tripledot Studios
         link: tripledotstudios.com
         # link_text: https://tripledotstudios.com/
