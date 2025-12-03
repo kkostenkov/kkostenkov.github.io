@@ -77,7 +77,7 @@ content:
       - layout: left
         title: HOMA games
         link: homagames.com
-        sub_title: Lead Unity Developer
+        sub_title: Lead Unity developer
         caption: March 2024 - December 2024 (Spain)
         quote: >
           Active listening is the key
@@ -88,7 +88,7 @@ content:
         title: Tripledot Studios
         link: tripledotstudios.com
         # link_text: https://tripledotstudios.com/
-        sub_title: Lead Unity Software Engineer
+        sub_title: Lead Unity software engineer / Associate technical director
         caption: April 2022 - January 2024 (Spain)
         quote: >
           Scaling up as a manager
@@ -110,7 +110,7 @@ content:
       - layout: left
         title: Nival
         link: nival.com
-        sub_title: Senior unity developer
+        sub_title: Senior Unity developer
         caption: January 2017 - November 2019 (Russia)
         quote: >
           Leveling up in a real game dev environment.
