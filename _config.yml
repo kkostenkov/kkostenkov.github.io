@@ -164,6 +164,28 @@ content:
     layout: list
     content:
       - layout: top-middle
+        title: "Coffee Pack"
+        additional_links:
+          - title:  Google Play
+            icon: fab fa-google-play
+            url: https://play.google.com/store/apps/details?id=com.PubtrainGames.CoffeePack
+          - title:  App Store
+            icon: fab fa-app-store
+            url: https://apps.apple.com/us/app/coffee-pack/id6475177029
+        description: |
+          #### Project
+          <video src="images/portfolio/CoffeePack.mp4" type="video/mp4" width="30%" style="float: right;" controls></video>
+          Casual puzzle game.  
+          Drag and drop your coffee packs on your board. Same coffee types will merge if they are 6 in the same pack.
+
+          #### My part  
+          - Composition of the team and leading developers, QA, technical artists
+          - Management of business expectations and deadlines
+          - Architecture planning, SDK integration
+          - C# programming
+          - Communication with the company's SDK developers and the art team
+
+      - layout: top-middle
         title: "Solitaire Fortune, Bingo Fortune"
         additional_links:
           - title:  App Store
