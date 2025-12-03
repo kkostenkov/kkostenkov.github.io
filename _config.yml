@@ -62,10 +62,23 @@ content:
     layout: list
     content:
       - layout: left
+        title: Voodoo
+        link: voodoo.io
+        sub_title: Technical director
+        caption: December 2024 - Present (Spain)
+        quote: >
+          Great things in business are never done by one person, they're done by a team of people.
+        description: |
+            Built a team of extreme professionals to deliver high-quality puzzle game.  
+            Set up a regular pace of meaningful application updates with new features and content meeting business goals and tight deadlines.  
+            Applied bst practices in refining business requirements into technical tasks and ensuring their proper implementation.  
+            Converted a prototype project into a full-fledged product with a solid architecture and maintainable codebase.  
+
+      - layout: left
         title: HOMA games
         link: homagames.com
         sub_title: Lead Unity Developer
-        caption: March 2024 - Present (Spain)
+        caption: March 2024 - December 2024 (Spain)
         quote: >
           Active listening is the key
         description: |
