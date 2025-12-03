@@ -175,7 +175,7 @@ content:
         description: |
           #### Project
           <video src="images/portfolio/CoffeePack.mp4" type="video/mp4" width="30%" style="float: right;" controls></video>
-          Casual puzzle game.  
+          Casual puzzle game.
           Drag and drop your coffee packs on your board. Same coffee types will merge if they are 6 in the same pack.
 
           #### My part  
@@ -184,6 +184,19 @@ content:
           - Architecture planning, SDK integration
           - C# programming
           - Communication with the company's SDK developers and the art team
+      - layout: top-middle
+        title: "Klondike Solitaire, Spider Solitaire"
+        additional_links:
+          - title:  Google Play
+            icon: fab fa-google-play
+            url: https://play.google.com/store/apps/details?id=com.homa.free.solitaire.card.game
+          - title:  App Store
+            icon: fab fa-app-store
+            url: https://apps.apple.com/us/app/new-classic-solitaire-klondike/id1628542227
+        description: |
+          #### Project
+          <video src="images/portfolio/solitaire.mp4" type="video/mp4" width="30%" style="float: right;" controls></video>
+          Classic Klondike and Spider Solitaire for mobile devices.
 
       - layout: top-middle
         title: "Solitaire Fortune, Bingo Fortune"
