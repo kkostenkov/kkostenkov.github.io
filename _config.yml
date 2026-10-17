@@ -3,13 +3,22 @@
 # Site
 repository: kkostenkov/kkostenkov.github.io
 favicon: images/favicon.ico
+url: https://kkostenkov.github.io
+description: Kirill Kostenkov, Product-minded Tech Lead in mobile games. Unity, C#, A/B testing, monetization, AI-assisted development.
+exclude:
+  - docs
+  - scripts
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
 
 # Content configuration version
 version: 2
 
 # Personal info
 name: Kirill Kostenkov
-title: Lead Unity Software Engineer
+title: Product-minded Tech Lead, Mobile Games
 email: kkostenkov@gmail.com
 #website: www.kkostenkov.com
 
@@ -46,18 +55,49 @@ additional_links:
 # About Section
 # about_title: About Me
 about_content: | # this will include new lines to allow paragraphs
- 
- <img src="images/photo.jpg" width="20%" align="left"/>
- <img src="images/clear.png" width="50px" height="200px" align="left"/>
-  Hi, my name's Kirill and I'm a lead Unity software engineer. As well as organizing dev teams I also have experience in C# programming and the Unity game engine. I have worked on a number of projects gaining teamwork and leadership skills.
+
+  <div class="about-row">
+  <img src="images/photo.jpg" class="about-photo" alt="Kirill Kostenkov"/>
+  <div class="about-text" markdown="1">
+  **Unity lead who builds from the metrics: retention, monetization, A/B tests.**
+
+  I'm Kirill, a tech lead in mobile games with 13+ years of Unity and C# (10+ professionally). I treat a studio as a business: the job is to ship products that earn, so I decide from retention, monetization and experiment results. I lead cross-functional teams of engineers, artists, designers, analysts and QA, and I use AI agents in daily production work. Based in Barcelona, Spain.
 
   My tech expertise lies in <mark>Unity</mark> and <mark>C#</mark>
 
   Language proficiency:
   English - C1; French - B1; Spanish - B2; Russian - Native
+  </div>
+  </div>
 
 
 content:
+  - title: AI-assisted development
+    layout: text
+    content: |
+      - **Daily hands-on use** of AI coding agents (Claude Code among them) with MCP servers and custom skills in production work.
+      - **Custom skills:** I write my own agent skills to automate routine work.
+      - **Team adoption:** I pushed the team toward agent-assisted development and gave in-studio talks teaching non-technical colleagues the basics, token-saving tips and how to get reliable results when building prototypes.
+
+  - title: Impact at Voodoo (Archery Clash!)
+    layout: text
+    content: |
+      *Selected examples:*
+
+      - **+5pp D1 retention** on low-end Android device tiers (T4-T5): built a system that adapts quality settings to device performance.
+      - **~+10% D1-D7 playtime with no revenue drop:** A/B-tested the grace time before ads appear.
+      - **+2pp store conversion**, statistically significant: ran a store listing experiment with updated screenshots and added keywords to title and description.
+      - **+30% revenue in T3 countries:** tested a 50% price reduction.
+
+  - title: Skills
+    layout: text
+    content: |
+      13+ years of Unity and C#; .Net Core, ASP.NET Core  
+      9+ years of leadership: Scrum, Git, Jira, team management, mentoring, expectations management  
+      Product: A/B testing, retention and monetization analysis, store listing optimization (ASO), playable ads  
+      Analytics: Google Analytics, GameAnalytics, Crashlytics, Mixpanel, PostHog, custom analytics services  
+      AI-assisted development: AI coding agents, MCP servers, custom skills  
+
   - title: Experience
     layout: list
     content:
@@ -66,63 +106,61 @@ content:
         link: voodoo.io
         sub_title: Technical director
         caption: December 2024 - Present (Spain)
-        quote: >
-          Great things in business are never done by one person, they're done by a team of people.
         description: |
-            Built a team of extreme professionals to deliver high-quality puzzle game.  
-            Set up a regular pace of meaningful application updates with new features and content meeting business goals and tight deadlines.  
-            Applied bst practices in refining business requirements into technical tasks and ensuring their proper implementation.  
-            Converted a prototype project into a full-fledged product with a solid architecture and maintainable codebase.  
+            - Lead product teams on Coffee Pack and Archery Clash!: the team grew from 3 engineers and 2 QA into a cross-functional team of 5 (engineer, data analyst, game designer, artist, QA).
+            - Run A/B tests with data analysts, define analytics events and funnels, and set the roadmap from the results.
+            - Own store listing optimization (keywords, listing experiments) and built playable ads in Unity (Luna) for user acquisition.
+            - Turned a prototype into a full product with a solid architecture and maintainable codebase.
 
       - layout: left
         title: HOMA games
         link: homagames.com
         sub_title: Lead Unity developer
-        caption: March 2024 - December 2024 (Spain)
-        quote: >
-          Active listening is the key
+        caption: March 2024 - December 2024 (Spain), 10 mos
         description: |
-            Helped to re-establish a relationship of mutual trust within the team.  
-            Introduced core engineering principles in a gentle, step-by-step manner.  
+            - Led a team of 4 engineers and re-established a relationship of mutual trust within the team.
+            - Introduced core engineering principles step by step.
+
       - layout: left
         title: Tripledot Studios
         link: tripledotstudios.com
-        # link_text: https://tripledotstudios.com/
         sub_title: Lead Unity software engineer / Associate technical director
-        caption: April 2022 - January 2024 (Spain)
-        quote: >
-          Scaling up as a manager
-        description: | # this will include new lines to allow paragraphs
-            Contributed to the company's rapid growth by introducing scalable processes and maintaining high software development standards.  
-            Helped transform a group of individual contributors into The Team.  
-            Run various technical workshops for the studio.  
-            Established interaction between the studio's various project teams to share technology and experience.  
+        caption: April 2022 - January 2024 (Spain), 1 yr 10 mos
+        description: |
+            - Managed 10 engineers during the company's rapid growth, introducing scalable processes and keeping software standards high.
+            - Helped turn a group of individual contributors into one team; set up build tooling.
+            - Ran technical workshops and set up exchange of technology and experience between project teams.
+
       - layout: left
         title: Helio
         link: heliogames.com
         sub_title: Lead developer
-        caption: December 2019 - March 2022 (Russia)
-        quote: >
-          Development Teamlead as a choice for the prestige class
+        caption: December 2019 - March 2022 (Russia), 2 yrs 4 mos
         description: |
-            Conducted code reviews, interviews, hired programmers and technical artists, created development and technical roadmaps and was responsible for deadlines.  
-               
+            Team lead: code reviews, interviews, hiring programmers and technical artists, development and technical roadmaps, deadlines.
+
       - layout: left
         title: Nival
         link: nival.com
         sub_title: Senior Unity developer
-        caption: January 2017 - November 2019 (Russia)
-        quote: >
-          Leveling up in a real game dev environment.
+        caption: January 2017 - November 2019 (Russia), 2 yrs 11 mos
         description: |
-            Made my way from middle to senior C# dev. Supported several existing titles and contributed to couple prototypes that were not released.
+            Grew from middle to senior C# developer. Supported several live titles and contributed to prototypes that were not released.
+
       - layout: left
         title: iLocked
         link: ilocked.ru
         sub_title: Unity developer (VR)
-        caption: May 2016 - November 2016 (Russia)
+        caption: May 2016 - November 2016 (Russia), 7 mos
         description: |
-            Solo developer of multiplayer VR quest with full immersion. Players in VR helmets and suits interact with physical objects in the real world via Oculus Rift, HTC Vive, Perception Neuron (Motion capture suit)
+            Solo developer of a multiplayer VR quest (Oculus Rift, HTC Vive, Perception Neuron).
+
+      - layout: left
+        title: Independent
+        sub_title: Solo Unity developer
+        caption: 2013 - 2016
+        description: |
+            First projects in Unity and C#, including the multiplayer tower defense Krownguards ([see portfolio](portfolio)).
 
   - title: Education
     layout: list
@@ -131,20 +169,11 @@ content:
         title: St. Petersburg State University of Engineering and Economics
         caption: 2005 - 2010
         sub_title: Bachelor Degree in Human Resources
-        quote: >
-          Most of nowadays IT-folk had little to no idea what they are really going to do after their graduation.
         description: |
-          During my time at ENGECON I learned most of my key management skills that helped in my career. 
-
-  - title: Skills
-    layout: text
-    content: | 
-      11+ years of Unity, C#, .Net Core, ASP.NET Core  
-      7+ years of leadership  
-      As well as proficiency in Scrum, Git, Jira, team management, mentoring, expectations management  
+          Studied people and team management, which I apply when leading engineering teams.
 
   - title: Projects
-    layout: text
+    layout: textbreak
     content: |
       [Some of my projects you could find over here](portfolio)
 
@@ -163,6 +192,66 @@ content:
   - title: Portfolio
     layout: list
     content:
+      - layout: top-middle
+        title: "Archery Clash!"
+        additional_links:
+          - title:  Google Play
+            icon: fab fa-google-play
+            url: https://play.google.com/store/apps/details?id=archery.clash.tournament&hl=en
+          - title:  App Store
+            icon: fab fa-app-store
+            url: https://apps.apple.com/us/app/archery-clash/id6458097001
+        description: |
+          #### Project
+          Archery game with a cast of female archers.
+
+          #### My part
+          - Composition of the team and leading developers, QA, technical artists
+          - Product and project responsibilities: roadmap from experiment results, management of business expectations and deadlines
+          - Architecture planning, SDK integration, C# programming
+          - A/B tests with data analysts, store listing optimization, playable ads
+
+          #### Results
+          - +5pp D1 retention on low-end Android device tiers (adaptive quality settings)
+          - ~+10% D1-D7 playtime with no revenue drop (ad grace time test)
+          - +2pp store conversion (listing experiment)
+          - +30% revenue in T3 countries (-50% prices)
+
+          #### Tech & skills
+          <mark>Unity</mark>, <mark>C#</mark>, <mark>A/B testing</mark>, <mark>Analytics</mark>, <mark>ASO</mark>, <mark>Team-leading</mark>
+
+      - layout: top-middle
+        title: "Reel Heroes"
+        additional_links:
+          - title:  Google Play
+            icon: fab fa-google-play
+            url: https://play.google.com/store/apps/details?id=com.PulpoFeliz.spin.spire.saga.heroes.dice.free.game
+        description: |
+          #### Project
+          Personal project, recently launched. Turn-based pixel RPG roguelike: spin hero reels, plan your party, beat dungeons.
+
+          #### My part
+          - Solo development, from design to release
+
+          #### Tech & skills
+          <mark>Unity</mark>, <mark>VContainer</mark>, <mark>Addressables</mark>, <mark>UniRx</mark>, <mark>MessagePipe</mark>, <mark>PostHog</mark>
+
+      - layout: top-middle
+        title: "Kitty Run"
+        additional_links:
+          - title:  Telegram
+            icon: fab fa-telegram
+            url: https://t.me/kk_endless_run_bot/
+        description: |
+          #### Project
+          Personal project: a game template adapted to a Telegram Mini App. About 1k monthly users.
+
+          #### My part
+          - Solo adaptation, SDK integration, monetization and analytics setup
+
+          #### Tech & skills
+          <mark>Telegram Mini Apps</mark>, <mark>Playgama Bridge SDK</mark>, <mark>AdsGram</mark>, <mark>Telegram Stars</mark>, <mark>PostHog</mark>
+
       - layout: top-middle
         title: "Coffee Pack"
         additional_links:

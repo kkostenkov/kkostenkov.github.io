@@ -3,3 +3,83 @@
 ---
 
 @import 'modern-resume-theme';
+
+// Compact experience/education rows: header line on top, content full width.
+.list-container .layout-left {
+  flex-direction: column;
+  margin-top: 1.4rem;
+  break-inside: avoid;
+  page-break-inside: avoid;
+
+  .details {
+    width: 100%;
+    float: none;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: flex-start;
+    margin-bottom: 0.3rem;
+
+    h4 { font-size: 2rem; margin: 0 1.2rem 0 0; }
+    p { font-size: 1.4rem; margin: 0 1.2rem 0 0; }
+    a.link { margin-left: auto; font-size: 1.3rem; }
+  }
+
+  .content {
+    width: 100%;
+    float: none;
+
+    ul { font-size: 1.4rem; margin-bottom: 0.2rem; text-align: left; }
+    p { font-size: 1.4rem; text-align: left; margin-bottom: 0.2rem; }
+  }
+}
+
+h3 { break-after: avoid; page-break-after: avoid; }
+
+@media print {
+  img[alt="Fairy-tales cat"] { display: none; }
+}
+
+.text-container { break-inside: avoid; page-break-inside: avoid; }
+
+@media print {
+  h3 { font-size: 2.2rem; padding-bottom: 4px; margin-bottom: 10px; }
+  .container { margin-top: 12px; }
+  .layout-left { margin-top: 0.9rem; }
+}
+
+// Night mode: the theme's light font weights and blue links are hard to read on dark.
+.dark {
+  color: #f2f2f2;
+  h2, h3 { font-weight: 400; }
+  h3 { border-bottom-color: #888; }
+  p, ul, li { font-weight: 400; }
+  a { color: #8ab4f8; }
+  .layout .details p { font-weight: 400; color: #e6e6e6; }
+  .layout .details a { color: #a9c7f5; font-weight: 400; }
+  h1, h4 { color: #fff; }
+}
+
+// About: photo and text side by side so lines never wrap under the photo.
+.about-row { display: flex; gap: 2rem; align-items: flex-start; }
+.about-photo { width: 20%; max-width: 210px; height: auto; flex: none; }
+.about-text { flex: 1; min-width: 0; }
+@media screen and (max-width: 767px) {
+  .about-row { flex-direction: column; align-items: center; }
+  .about-photo { width: 50%; }
+}
+
+// Projects and later sections start on a new printed page (keeps the PDF to 2 pages).
+@media print {
+  .textbreak-container { break-before: page; page-break-before: always; }
+}
+
+// Slightly denser print so the CV fits two pages.
+@media print {
+  .container { margin-top: 8px; }
+  p, ul, li { line-height: 1.35; }
+  .about-photo { max-width: 150px; }
+  .about-row { gap: 1.2rem; }
+}
+
+@page { margin: 8mm 12mm; }

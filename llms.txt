@@ -1,0 +1,35 @@
+# Kirill Kostenkov
+
+> Product-minded Tech Lead, Mobile Games. Unity lead who builds from the metrics: retention, monetization, A/B tests. 13+ years of Unity and C# (10+ professionally). Based in Barcelona, Spain.
+
+Site: https://kkostenkov.github.io/
+Portfolio: https://kkostenkov.github.io/portfolio
+LinkedIn: https://www.linkedin.com/in/kkostenkov
+GitHub: https://github.com/kkostenkov
+Contact: kkostenkov@gmail.com
+
+## AI-assisted development
+- Daily use of AI coding agents (Claude Code among them) with MCP servers and custom skills.
+- Writes own agent skills to automate routine work.
+- Pushed the team to agent-assisted development; gave in-studio talks for non-technical colleagues.
+
+## Impact at Voodoo (Archery Clash!)
+- +5pp D1 retention on low-end Android device tiers (T4-T5) via adaptive quality settings.
+- ~+10% D1-D7 playtime with no revenue drop (ad grace time A/B test).
+- +2pp store conversion, statistically significant (listing experiment).
+- +30% revenue in T3 countries (-50% prices).
+
+## Experience
+- Voodoo, Technical director, Dec 2024 - present. Team grew from 3 engineers + 2 QA to a cross-functional team of 5. A/B tests with analysts, analytics, ASO, playable ads (Luna).
+- HOMA games, Lead Unity developer, Mar 2024 - Dec 2024. Led 4 engineers.
+- Tripledot Studios, Lead Unity software engineer / Associate technical director, Apr 2022 - Jan 2024. Managed 10 engineers.
+- Helio, Lead developer, Dec 2019 - Mar 2022.
+- Nival, Senior Unity developer, Jan 2017 - Nov 2019.
+- iLocked, Unity developer (VR), May 2016 - Nov 2016.
+- Independent, solo Unity developer, 2013 - 2016.
+
+## Education
+St. Petersburg State University of Engineering and Economics, Bachelor, Human Resources, 2005 - 2010.
+
+## Languages
+English C1, French B1, Spanish B2, Russian native.
