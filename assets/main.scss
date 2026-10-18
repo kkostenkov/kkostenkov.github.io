@@ -45,7 +45,7 @@ h3 { break-after: avoid; page-break-after: avoid; }
 @media print {
   h3 { font-size: 2.2rem; padding-bottom: 4px; margin-bottom: 10px; }
   .container { margin-top: 12px; }
-  .layout-left { margin-top: 0.9rem; }
+  .list-container .layout-left { margin-top: 0.5rem; }
 }
 
 // Night mode: the theme's light font weights and blue links are hard to read on dark.
@@ -72,12 +72,14 @@ h3 { break-after: avoid; page-break-after: avoid; }
 // Projects and later sections start on a new printed page (keeps the PDF to 2 pages).
 @media print {
   .textbreak-container { break-before: page; page-break-before: always; }
+  // Page 2 opens with Skills (the text section right before Experience), then Experience and Education.
+  .wrapper:has(+ .wrapper > .list-container) > .text-container { break-before: page; page-break-before: always; }
 }
 
 // Slightly denser print so the CV fits two pages.
 @media print {
   .container { margin-top: 8px; }
-  p, ul, li { line-height: 1.35; }
+  p, ul, li { line-height: 1.28; }
   .about-photo { max-width: 150px; }
   .about-row { gap: 1.2rem; }
 }

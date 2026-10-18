@@ -77,6 +77,7 @@ content:
     content: |
       - **Daily hands-on use** of AI coding agents (Claude Code among them) with MCP servers and custom skills in production work.
       - **Custom skills:** I write my own agent skills to automate routine work.
+      - **Automated product health checks:** scheduled Claude Code runs pull retention, revenue, crash and rating data through an MCP connection to our internal analytics and post a daily tech and product health report to the team messenger, with a comparison to the previous period to show the trend. This saved time on daily and weekly reporting and lowered tension in the team: everyone sees the same numbers early.
       - **Team adoption:** I pushed the team toward agent-assisted development and gave in-studio talks teaching non-technical colleagues the basics, token-saving tips and how to get reliable results when building prototypes.
 
   - title: Impact at Voodoo (Archery Clash!)
@@ -96,7 +97,7 @@ content:
       9+ years of leadership: Scrum, Git, Jira, team management, mentoring, expectations management  
       Product: A/B testing, retention and monetization analysis, store listing optimization (ASO), playable ads  
       Analytics: Google Analytics, GameAnalytics, Crashlytics, Mixpanel, PostHog, custom analytics services  
-      AI-assisted development: AI coding agents, MCP servers, custom skills  
+      AI-assisted development: AI coding agents, MCP servers, custom skills, scheduled agents for reporting and metrics monitoring
 
   - title: Experience
     layout: list

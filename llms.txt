@@ -11,6 +11,7 @@ Contact: kkostenkov@gmail.com
 ## AI-assisted development
 - Daily use of AI coding agents (Claude Code among them) with MCP servers and custom skills.
 - Writes own agent skills to automate routine work.
+- Automated product health checks: scheduled Claude Code runs read retention, revenue, crashes and ratings via MCP from internal analytics and post a daily report with period-over-period trend to the team messenger. Saved reporting time and reduced team tension.
 - Pushed the team to agent-assisted development; gave in-studio talks for non-technical colleagues.
 
 ## Impact at Voodoo (Archery Clash!)
